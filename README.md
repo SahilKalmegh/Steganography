@@ -44,8 +44,8 @@ This project implements **Least Significant Bit (LSB) Steganography** in Java, a
 ### Running the Program
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sahilkalmegh/Steganography-Java.git
-   cd Steganography-Java
+   git clone https://github.com/SahilKalmegh/Steganography.git
+   cd Steganography
    ```
 2. Compile the Java program:
    ```sh
